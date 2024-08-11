@@ -18,7 +18,6 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 ../go4datascience_course_materials/**
-../go4datascience_course_materials.zip
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
